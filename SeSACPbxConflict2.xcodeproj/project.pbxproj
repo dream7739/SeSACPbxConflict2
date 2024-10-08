@@ -51,9 +51,7 @@
 		8832DA3E2CB4F67000BAC95A /* SeSACPbxConflict2 */ = {
 			isa = PBXGroup;
 			children = (
-				8832DA3F2CB4F67000BAC95A /* SeSACPbxConflict2App.swift */,
-				8832DA412CB4F67000BAC95A /* ContentView.swift */,
-				8832DA432CB4F67100BAC95A /* Assets.xcassets */,
+				8832DA4D2CB4F89600BAC95A /* Den */,
 				8832DA452CB4F67100BAC95A /* Preview Content */,
 			);
 			path = SeSACPbxConflict2;
@@ -65,6 +63,16 @@
 				8832DA462CB4F67100BAC95A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8832DA4D2CB4F89600BAC95A /* Den */ = {
+			isa = PBXGroup;
+			children = (
+				8832DA3F2CB4F67000BAC95A /* SeSACPbxConflict2App.swift */,
+				8832DA412CB4F67000BAC95A /* ContentView.swift */,
+				8832DA432CB4F67100BAC95A /* Assets.xcassets */,
+			);
+			path = Den;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
